@@ -1,9 +1,9 @@
 ---
-title:  "I scream"
+title:  "Harry Potter 3"
 subtitle: "But do you scream?"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/e.jpg"
+image: "img/harry3.jpg"
 date:   2015-04-24 12:12:12
 ---
 
