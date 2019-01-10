@@ -1,9 +1,9 @@
 ---
-title:  "Absense of light"
+title:  "Harry Potter 2"
 subtitle: "Only lights from space"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/d.jpg"
+image: "img/harry2.jpg"
 date:   2015-04-23 12:12:12
 ---
 
